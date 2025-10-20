@@ -11,6 +11,8 @@ Topic: **X**
 </b>
 </ul>
 
+&#9632;(https://play-lh.googleusercontent.com/Df9avM9VglJViPwrc9dJSHzu2tHljdbNBXBa_Hwi-IRsRoe0bryLy_2vdYew3vF5cUU)
+
 &#9632; Used by veterinarians and vet students for quick dosage calculations.
 
 &#9632; Helps prevent medication errros with precise drug doses.
@@ -33,6 +35,7 @@ Topic: **X**
 &#9675; <b>Second App I reviewed was <a href= "https://petdesk.com/"> PetDesk</b>
 </ul>  
 
+&#9632; (https://play-lh.googleusercontent.com/-3gZzgPa9FwSl4FtpwWyE6Pc0M-bJXBDUEVofoixlimp2ZYl0F7-VbHDM9kadu2x57w)
 
 &#9632; Helps pet owners connect with their veterinary clinic.
 
@@ -52,6 +55,8 @@ Topic: **X**
 &#9675; <b>Third App I reviewed was <a href="https://www.petpoisonhelpline.com/"> Pet Poison Helpline </a>
 </b>
 </ul>  
+
+&#9632;(https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1b/08/1c/1b081c41-27dc-a6ee-654c-ec5f348fa02e/AppIcon-0-1x_U007emarketing-0-85-220-0-5.png/230x0w.webp)
 
 &#9632; Gives quick information about toxic foods, plants, and chemicals for pets.
 
