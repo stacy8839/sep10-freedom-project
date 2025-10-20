@@ -75,14 +75,6 @@ Topic: **X**
 &#9632; Can save pets' lives with fast and accurate info. 
 
 
-
-* [image text](image URL)
-  * Pet Desk
-  * [image text](image URL)
- 
-  * image
-  * Pet Poison App
-  *
 ## Part B: possible future technology
 * Idea
   * Detail
