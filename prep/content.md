@@ -75,6 +75,29 @@ Topic: **X**
 &#9632; Can save pets' lives with fast and accurate info. 
 
 
-## Part B: possible future technology
+## Part B: Possible future technology
+<ul>
+  &#9675; <b>First Hardware I reviewed was <a href="https://www.antechdiagnostics.com/antech-product/iv-pump/"> Intravenous (IV) Pumps</a> </b>
+</ul>
+&#9632; (https://www.antechdiagnostics.com/wp-content/uploads/2024/12/vet-iv-hero.png)
+   
+&#9632; The pumps help deliver consistent flow of medications, fluids, and other essential supplements to animals during surgeries and recovery. 
+
+&#9632; 
+
+&#9632; Very lighweight for easy portable use. Is about 2.6 pounds and fits in the palm of your hand.  
+
+&#9632; Supported by a loaner pump, is programed to keep you running for 24/7. 
+
+&#9632; It is battery operated and is set up for 8 hours. 
+
+&#9632; Its thin and small compact form makes it easy to set up almost everywhere. For example, tabletops, hang from a treatment cage, and can even affix to any IV stand. 
+
+&#9632; 
+
+&#9632; 
+
+&#9632; 
+
 * Idea
   * Detail
