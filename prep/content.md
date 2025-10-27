@@ -84,19 +84,19 @@ Topic: **X**
    
 &#9632; The pumps help deliver consistent flow of medications, fluids, and other essential supplements to animals during surgeries and recovery. 
 
-&#9632; 
+&#9632; They help prevent medication mistakes by controlling dosage amounts precisely.
 
-&#9632; Very lighweight for easy portable use. Is about 2.6 pounds and fits in the palm of your hand.  
+&#9632; Very lighweight for easy portable. Is about 2.6 pounds can fit in the palm of your hand.  
 
-&#9632; Supported by a loaner pump, is programed to keep you running for 24/7. 
+&#9632; Battery-operated and can last up to 8 hours per change, making it great for clinics without full-time power. 
 
-&#9632; It is battery operated and is set up for 8 hours. 
+&#9632; Supported by a "loaner pump" system that can run 24/7 if needed. 
 
-&#9632; Its thin and small compact form makes it easy to set up almost everywhere. For example, tabletops, hang from a treatment cage, and can even affix to any IV stand. 
+&#9632;The thin and small compact form makes it easy to set up almost anywhere. (Like on a tabletop. hanging from a cage, or attached to an IV stand).
 
-&#9632; 
+&#9632; Some models can record and store dosage data for digital touchscreens and alerts that remind the vet when the dose is done.
 
-&#9632; 
+&#9632; Wireless IV pumps are being developed that connect to phones or tablets, so vets can monitor the patient remotely.
 
 <ul>
   &#9675; <b>Second Hardware I reviewed was <a href="https://www.priorclave.com/en-us/autoclave-customers/autoclaves-veterinary-use/">Autoclave</a> </b>
@@ -104,19 +104,19 @@ Topic: **X**
 
 &#9632;(https://www.plhmedical.co.uk/wp-content/uploads/2019/10/autoclaves-1.jpg)
 
-&#9632; 
+&#9632; Autoclaves are used to sterilize tools and surgical instruments using high-pressure steam.
 
-&#9632; 
+&#9632; The average sterilization temperature is around 121 C° (250 °F)
 
-&#9632; 
+&#9632; Modern autoclaves have automatic drying features, which save time.
 
-&#9632; 
+&#9632; They're eco-friendly, uses less water and power compared to older machines. 
 
-&#9632; 
+&#9632; Makes sure tools are safe for every new patient, reducing disease spread. 
 
-&#9632; 
+&#9632; Some even connect to Wi-Fi or networks to keep records of sterilization cycles. 
 
-&#9632; 
+&#9632; Future autoclaves might even use UV-C light along with steam for extra sterilization power.
 
 
  <ul>
@@ -125,17 +125,19 @@ Topic: **X**
 
 &#9632;(https://news.vt.edu/content/news_vt_edu/en/articles/2023/09/vetmed-vth-new-mri/_jcr_content/article-image.transform/m-medium/image.jpg)
 
-&#9632; 
+&#9632; MRI machines use strong magnets and radio waves to create super-detailed images of animal organs and tissues.
 
-&#9632; 
+&#9632; Helps vets took inside the body without surgery.
 
-&#9632; 
+&#9632; Provides clearer images than X-rays or CT scans for certain conditions.
 
-&#9632; 
+&#9632; Portable versions are being designed for large animals like horses and cows. 
 
-&#9632;
+&#9632; Reduces the need for exploratory surgery, which means faster recovery for pets.
 
-&#9632;
+&#9632; Very useful for diagnosing things like brain injuries tumors, or joint problems. 
 
-&#9632; 
+&#9632; Can help plan complex surgeries and monitor recovery progress. 
+
+&#9632; Overall, MRI's are becoming one of the most advanced tools for diagnosing animal health problems. 
 
