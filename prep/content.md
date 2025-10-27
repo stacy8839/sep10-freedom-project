@@ -79,6 +79,7 @@ Topic: **X**
 <ul>
   &#9675; <b>First Hardware I reviewed was <a href="https://www.antechdiagnostics.com/antech-product/iv-pump/"> Intravenous (IV) Pumps</a> </b>
 </ul>
+
 &#9632; (https://www.antechdiagnostics.com/wp-content/uploads/2024/12/vet-iv-hero.png)
    
 &#9632; The pumps help deliver consistent flow of medications, fluids, and other essential supplements to animals during surgeries and recovery. 
@@ -97,7 +98,36 @@ Topic: **X**
 
 &#9632; 
 
+<ul>
+  &#9675; <b>Second Hardware I reviewed was <a href="(link)">Autoclave</a> </b>
+</ul>
+
 &#9632; 
 
-* Idea
-  * Detail
+&#9632; 
+
+&#9632; 
+
+&#9632; 
+
+&#9632; 
+
+
+ <ul>
+  &#9675; <b>Third Hardware I reviewed was <a href="(link)"> Magnetic resonance imaging</a> </b>
+</ul>
+
+&#9632; 
+
+&#9632; 
+
+&#9632; 
+
+&#9632; 
+
+&#9632; 
+
+&#9632;
+
+&#9632;
+
