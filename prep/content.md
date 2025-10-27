@@ -113,6 +113,10 @@ Topic: **X**
 
 &#9632; 
 
+&#9632; 
+
+&#9632; 
+
 
  <ul>
   &#9675; <b>Third Hardware I reviewed was <a href="https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals"> Magnetic resonance imaging</a> </b>
@@ -131,4 +135,6 @@ Topic: **X**
 &#9632;
 
 &#9632;
+
+&#9632; 
 
