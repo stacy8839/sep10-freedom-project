@@ -27,7 +27,7 @@ Topic: **X**
 
 &#9632; Designed for clinical and emergency use.
 
-&#9632; Helps with anesthesia, fuids, and nutritional calculations.
+&#9632; Helps with anesthesia, fluids, and nutritional calculations.
 
 &#9632; Highly encourages accuracy and efficiency during treatments.
 
