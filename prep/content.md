@@ -102,8 +102,7 @@ Topic: **X**
   &#9675; <b>Second Hardware I reviewed was <a href="https://www.priorclave.com/en-us/autoclave-customers/autoclaves-veterinary-use/">Autoclave</a> </b>
 </ul>
 
-&#9632; 
-
+&#9632;(https://www.plhmedical.co.uk/wp-content/uploads/2019/10/autoclaves-1.jpg)
 &#9632; 
 
 &#9632; 
@@ -117,7 +116,7 @@ Topic: **X**
   &#9675; <b>Third Hardware I reviewed was <a href="https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals"> Magnetic resonance imaging</a> </b>
 </ul>
 
-&#9632; 
+&#9632;(https://news.vt.edu/content/news_vt_edu/en/articles/2023/09/vetmed-vth-new-mri/_jcr_content/article-image.transform/m-medium/image.jpg)
 
 &#9632; 
 
