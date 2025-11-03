@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2: W
 ##### 11/3/25
 
 ## What I found:
