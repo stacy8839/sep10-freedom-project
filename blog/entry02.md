@@ -1,7 +1,11 @@
 # Entry 2
 ##### 11/3/25
 
-Text
+## What I found:
+
+
+## How I found it:
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
