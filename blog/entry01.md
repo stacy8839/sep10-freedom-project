@@ -25,7 +25,7 @@ When I started researching, I typed things like "How to become a veterinarian", 
 Communication has also been really crucial. Since I'm working on this project alongisde classmates with diffrent topics or similar topics, we often will share advice and check in with each other. Having those conversations helps me stay inspired and keep learning from others while still focusing on my own topic. The article [The Importnace of Communication in schools](https://schoolsuccessmakers.com/the-importance-of-communication-in-schools/) better explains it and goes into major important details. 
 
 ## Next steps 
-Im excited to keep researching and learning about veterinary medicine. My next steps are to look deeper into how veterinarians care for animals,the diffrent areas of veterinary work, and how techonologym such as X-rays and other advanced medical tools, helps them treat animals more effectively I want to learn how veterinarians balance science with compassions and how I can use that balance in my own life.  
+Im excited to keep researching and learning about veterinary medicine. My next steps are to look deeper into how veterinarians care for animals,the diffrent areas of veterinary work, and how techonology such as X-rays and other advanced medical tools, helps them treat animals more effectively I want to learn how veterinarians balance science with compassions and how I can use that balance in my own life.  
 
 [Next](entry02.md)
 
