@@ -1,4 +1,4 @@
-# Entry 2: W
+# Entry 2: 
 ##### 11/3/25
 
 ## What I found: Veterinary Hardware & Software Innovations
@@ -37,25 +37,20 @@ Since my first blog, I've hugely improved my research skills by learning how to 
 
 ## Sources
 
-* 
-
-*
-
-*
-
-*
-
-*
+I selected several credible and current sources from professional veterinary and medical technology websites. These refrences provided detailed and accurate information about how each app and device functions in real veterinary settings, supporting my research on innovation, safety, and efficiency in animal care!
 
 
+* <a href="https://vetcalculators.com/"> VetCalculator on Goodle Play </a>
+
+* <a href= "https://petdesk.com/"> PetDesk Official Site </b>
+
+* <a href="https://www.petpoisonhelpline.com/"> Pet Poison Helpline </a>
+
+* <a href="https://www.antechdiagnostics.com/antech-product/iv-pump/"> Intravenous (IV) Pumps</a>
+
+* <a href="https://www.priorclave.com/en-us/autoclave-customers/autoclaves-veterinary-use/">Autoclave</a>
+
+* <a href="https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals"> Magnetic resonance imaging (MRI Machines) </a>
 
 
 
-
-
-## How I found it:
-
-
-[Previous](entry01.md) | [Next](entry03.md)
-
-[Home](../README.md)
