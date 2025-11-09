@@ -2,27 +2,26 @@
 ##### 11/3/25
 
 ## What I found: Veterinary Hardware & Software Innovations
+&#9632; Introduction: I explored both software and hardware technologies that are transforming veterinary medicine. I understood how modern tools can help improve animal health care, prevent mistakes, and make treatments safer and faster. 
 
-Introduction: I explored both software and hardware technologies that are transforming veterinary medicine. I understood how modern tools can help improve animal health care, prevent mistakes, and make treatments safer and faster. 
+For **software**, I reviewed three major veterinaary apps: **VetCalculator**, **PetDesk**, and **Pet Poison Helpline**.
+* **VetCalculator** helps veterinarians and vet students quickly calculate medication dosages for diffrent animals, including dogs, cats, and horses. It even works offline, which makes it very useful during emergencies.
 
-For software, I reviewed three major veterinaary apps: VetCalculator, PetDesk, and Pet Poison Helpline.
-* VetCalculator helps veterinarians and vet students quickly calculate medication dosages for diffrent animals, including dogs, cats, and horses. It even works offline, which makes it very useful during emergencies.
+* **PetDesk connects** pet owners directly with their veterinary clinics, allowing them to book appointments, refill prescriptions, and even keep track of medical records in one place.
 
-* PetDesk connects pet owners directly with their veterinary clinics, allowing them to book appointments, refill prescriptions, and even keep track of medical records in one place.
+* **Pet Poison Helpline** provides instant access to accurate information about toxic foods and chemicals for pets, created by licensed veterinarians and toxicologists.
 
-* Pet Poison Helpline provides instant access to accurate information about toxic foods and chemicals for pets, created by licensed veterinarians and toxicologists.
+&#9632; These apps truly help improve accuracy, communication, and safety in daily vet work, showing how important software has become in modern clinics. 
 
-These apps truly help improve accuracy, communication, and safety in daily vet work, showing how important software has become in modern clinics. 
+For **hardware**, I researched **Intravenous (IV) Pumps**, **Autoclaves**, and **MRI machines**. 
 
-For hardware, I researched Intravenous (IV) Pumps, Autoclaves, and MRI machines. 
-
-* IV Pumps deliver fluids and medications precisely during surgeries and recovery, and some can connect wirelessly to phones or tablets for remote monitoring.
+* **IV Pumps** deliver fluids and medications precisely during surgeries and recovery, and some can connect wirelessly to phones or tablets for remote monitoring.
   
-* Autoclaves sterilize tools using high-pressure steam and are now more eco-friendly, with digital tracking and potential future use of UV-C light.
+* **Autoclaves** sterilize tools using high-pressure steam and are now more eco-friendly, with digital tracking and potential future use of UV-C light.
 
-* MRI Machines use strong magnets and radio waves to produce detailed images of animal organs, helping vets diagnose injuries and diseases without surgery. 
+* **MRI Machines** use strong magnets and radio waves to produce detailed images of animal organs, helping vets diagnose injuries and diseases without surgery. 
 
-Together, these tools represent how veterinary medicine continues to blend technology and care for better outcomes. 
+&#9632; Together, these tools represent how veterinary medicine continues to blend technology and care for better outcomes. 
 
 ## How I found it
 
