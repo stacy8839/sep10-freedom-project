@@ -2,12 +2,12 @@
 ##### 11/3/25
 
 ## What I found: Veterinary Hardware & Software Innovations
-&#9632; Introduction: I explored both software and hardware technologies that are transforming veterinary medicine. I understood how modern tools can help improve animal health care, prevent mistakes, and make treatments safer and faster. 
+&#9632; Introduction: I explored both software and hardware technologies that are greatly transforming veterinary medicine. My goal was to understand how modern tools can help improve animal health care, prevent mistakes, and make treatments safer and faster. 
 
-For **software**, I reviewed three major veterinaary apps: **VetCalculator**, **PetDesk**, and **Pet Poison Helpline**.
+For **software**, I reviewed three major veterinary apps: **VetCalculator**, **PetDesk**, and **Pet Poison Helpline**.
 * **VetCalculator** helps veterinarians and vet students quickly calculate medication dosages for diffrent animals, including dogs, cats, and horses. It even works offline, which makes it very useful during emergencies.
 
-* **PetDesk connects** pet owners directly with their veterinary clinics, allowing them to book appointments, refill prescriptions, and even keep track of medical records in one place.
+* **PetDesk** connects pet owners directly with their veterinary clinics, allowing them to book appointments, refill prescriptions, and even keep track of medical records in one single place.
 
 * **Pet Poison Helpline** provides instant access to accurate information about toxic foods and chemicals for pets, created by licensed veterinarians and toxicologists.
 
@@ -19,23 +19,35 @@ For **hardware**, I researched **Intravenous (IV) Pumps**, **Autoclaves**, and *
   
 * **Autoclaves** sterilize tools using high-pressure steam and are now more eco-friendly, with digital tracking and potential future use of UV-C light.
 
-* **MRI Machines** use strong magnets and radio waves to produce detailed images of animal organs, helping vets diagnose injuries and diseases without surgery. 
+* **MRI Machines** use strong magnets and radio waves to produce detailed images of animal organs, helping vets diagnose injuries and diseases without the need of surgery. 
 
 &#9632; Together, these tools represent how veterinary medicine continues to blend technology and care for better outcomes. 
 
 ## How I found it
 
-I began by searching for "modern veterinary software" and "veterinary hardware tools for clinics". Many results were too genreal (like computers and thermometers), so I refined my searches to include "apps for veterinary dosage calculation" and "hardware innovations in veterinary surgery." That helped me find more specific and advanced technologies that most people don't already know about. 
+I began by searching for "modern veterinary software" and "veterinary hardware tools for clinics". Many results were too general (like computers and thermometers), so I refined my searches to include "apps for veterinary dosage calculation" and "hardware innovations in veterinary surgery." That helped me find more specific and advanced technologies that most people don't already know about. 
 
 ## Engineering Design Process (EDP)
 
-Right now, I'm in 
+Right now, I'm in the research and testing stage of the Engineering Design Process. I've identified what's already available and what's still being developed. My next step will be to analyze how these technologies could be improved, like increasing bettery life for portable IV pumps or creating cheaper, and smaller MRI machines for local clinics.
 
 ## Skils Developed 
 
-Since my first blog, I've improved my research skills by learning how to refine search terms to find more reliable, detailed sources. I also developed stronger digital literacy skills, by comparing diffrent websites, checking credibility, and linking my sources properly in context rather than just copying URLs. 
+Since my first blog, I've hugely improved my research skills by learning how to refine search terms to find more reliable, detailed sources. I also developed stronger digital literacy skills, by comparing diffrent websites, checking credibility, and linking my sources properly in context rather than just copying URLs. 
 
 ## Sources
+
+* 
+
+*
+
+*
+
+*
+
+*
+
+
 
 
 
