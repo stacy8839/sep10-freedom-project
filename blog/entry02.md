@@ -3,7 +3,7 @@
 
 ## What I found: Veterinary Hardware & Software Innovations
 
-Brief Introduction: I explored both software and hardware technologies that are transforming veterinary medicine. I understood how modern tools can help improve animal health care, prevent mistakes, and make treatments safer and faster. 
+Introduction: I explored both software and hardware technologies that are transforming veterinary medicine. I understood how modern tools can help improve animal health care, prevent mistakes, and make treatments safer and faster. 
 
 For software, I reviewed three major veterinaary apps: VetCalculator, PetDesk, and Pet Poison Helpline.
 * VetCalculator helps veterinarians and vet students quickly calculate medication dosages for diffrent animals, including dogs, cats, and horses. It even works offline, which makes it very useful during emergencies.
@@ -16,11 +16,13 @@ These apps truly help improve accuracy, communication, and safety in daily vet w
 
 For hardware, I researched Intravenous (IV) Pumps, Autoclaves, and MRI machines. 
 
-*
-*
-*
+* IV Pumps deliver fluids and medications precisely during surgeries and recovery, and some can connect wirelessly to phones or tablets for remote monitoring.
+  
+* Autoclaves sterilize tools using high-pressure steam and are now more eco-friendly, with digital tracking and potential future use of UV-C light.
 
-Together, these tools represent how veterinary medicine continues to blennd technology and care for better outcomes. 
+* MRI Machines use strong magnets and radio waves to produce detailed images of animal organs, helping vets diagnose injuries and diseases without surgery. 
+
+Together, these tools represent how veterinary medicine continues to blend technology and care for better outcomes. 
 
 ## How I found it
 
@@ -28,8 +30,11 @@ I began by searching for "modern veterinary software" and "veterinary hardware t
 
 ## Engineering Design Process (EDP)
 
+Right now, I'm in 
 
 ## Skils Developed 
+
+Since my first blog, I've improved my research skills by learning how to refine search terms to find more reliable, detailed sources. I also developed stronger digital literacy skills, by comparing diffrent websites, checking credibility, and linking my sources properly in context rather than just copying URLs. 
 
 ## Sources
 
