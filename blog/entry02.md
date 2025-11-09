@@ -1,4 +1,4 @@
-# Entry 2: 
+# Entry 2: Learning About Veterinary Tech: Hardware and Software
 ##### 11/3/25
 
 ## What I found: Veterinary Hardware & Software Innovations
