@@ -14,6 +14,25 @@ For software, I reviewed three major veterinaary apps: VetCalculator, PetDesk, a
 
 These apps truly help improve accuracy, communication, and safety in daily vet work, showing how important software has become in modern clinics. 
 
+For hardware, I researched Intravenous (IV) Pumps, Autoclaves, and MRI machines. 
+
+*
+*
+*
+
+Together, these tools represent how veterinary medicine continues to blennd technology and care for better outcomes. 
+
+## How I found it
+
+I began by searching for "modern veterinary software" and "veterinary hardware tools for clinics". Many results were too genreal (like computers and thermometers), so I refined my searches to include "apps for veterinary dosage calculation" and "hardware innovations in veterinary surgery." That helped me find more specific and advanced technologies that most people don't already know about. 
+
+## Engineering Design Process (EDP)
+
+
+## Skils Developed 
+
+## Sources
+
 
 
 
