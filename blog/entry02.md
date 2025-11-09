@@ -29,11 +29,11 @@ I began by searching for "modern veterinary software" and "veterinary hardware t
 
 ## Engineering Design Process (EDP)
 
-Right now, I'm in the research and testing stage of the Engineering Design Process. I've identified what's already available and what's still being developed. My next step will be to analyze how these technologies could be improved, like increasing bettery life for portable IV pumps or creating cheaper, and smaller MRI machines for local clinics.
+Right now, I'm in the **research and testing** stage of the Engineering Design Process. I've identified what's already available and what's still being developed. My **next step** will be to analyze how these technologies could be improved, like increasing bettery life for portable IV pumps or creating cheaper, and smaller MRI machines for local clinics.
 
 ## Skils Developed 
 
-Since my first blog, I've hugely improved my research skills by learning how to refine search terms to find more reliable, detailed sources. I also developed stronger digital literacy skills, by comparing diffrent websites, checking credibility, and linking my sources properly in context rather than just copying URLs. 
+Since my first blog, I've hugely improved my **research skills** by learning how to refine search terms to find more reliable, detailed sources. I also developed stronger digital **literacy skills**, by comparing diffrent websites, checking credibility, and linking my sources properly in context rather than just copying URLs. These new experiences have helped me grow as a researcher and better understand how to find, evalute, and organize reliable information about veterinary technology. 
 
 ## Sources
 
