@@ -110,4 +110,6 @@ Topic: **Veterinary**
 
 * Assists in monitoring recovery and surgical progress 
   
-* MRI machines use advanced imaging software, computer systems, magnet technology, and detailed data processing. It is the highest level of veterinary equipment. 
+* MRI machines use advanced imaging software, computer systems, magnet technology, and detailed data processing. It is the highest level of veterinary equipment.
+
+## Ideas
