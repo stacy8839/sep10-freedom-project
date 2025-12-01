@@ -2,7 +2,7 @@
 Topic: **Veterinary**
 
 ## Overview/Introduction/Context
-* Technology plays a major role in modern veterinary medicine. Apps, tools, and machines help veterinarians improve accuranc, communication, patient monitoring, emergency care, and diagnostic precision. This project reviews existing veterinary software and hardware, that will continue to improve healthcare. 
+* Technology plays a major role in modern veterinary medicine. Apps, tools, and machines help veterinarians improve accuracy, communication, patient monitoring, emergency care, and diagnostic precision. This project reviews existing veterinary software and hardware, that will continue to improve healthcare. 
 
 ## Least complex
 <ul>
