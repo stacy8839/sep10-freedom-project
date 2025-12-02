@@ -134,7 +134,8 @@ Topic: **Veterinary**
 * Creates 3D holograms of an animal's internal organs without surgery.
 * Uses advanced sensors to scan through tissue safely.
 * Helps vets diagnose injuries faster and with more accuracy.
-* <b><a href="https://cff2.earth.com/uploads/2018/10/16191600/MRI-scans-show-that-dogs-can-understand-some-of-what-we-say.jpg"> How the Holo-Vet Scanner would look like! </a>
+* <img src="blob:chrome-untrusted://media-app/3055a04a-254e-485f-8011-3cf0fe8a2f6c" alt="SCANNER.png"/><img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/3267b485-c949-4826-88d9-ca4763dbb7b2" />
+
 
 
  SMARTBANDAGE 
@@ -142,7 +143,6 @@ Topic: **Veterinary**
 * Wraps around a wound and monitors swelling, temperature, and infection risk.
 * Sends alerts to a vet's phone when conditions change.
 * Automatically adjusts pressure to help healing.
-* <b><a href="https://cff2.earth.com/uploads/2018/10/16191600/MRI-scans-show-that-dogs-can-understand-some-of-what-we-say.jpg"> How the SmartBandage would look like! </a>
 <img width="324" height="324" alt="SMARTBANDAGE " src="https://github.com/user-attachments/assets/a8497831-e5e3-4878-b86f-2ae6dce31ac6" />
 
 
@@ -151,4 +151,5 @@ Topic: **Veterinary**
 * Reads body signals, heart rate, and movement patterns to identify emotions.
 * Shows if a pet is anxious, stressed, or in pain.
 * Helps vets communicate better with animals during exams.
-* <b><a href="https://cff2.earth.com/uploads/2018/10/16191600/MRI-scans-show-that-dogs-can-understand-some-of-what-we-say.jpg"> How the Pet Emotion Translator would look like! </a>
+* <img src="blob:chrome-untrusted://media-app/b56fec70-28af-49ae-82cc-5d4bd5fc9edb" alt="TRANSLATOR .jpg"/><img width="997" height="1050" alt="image" src="https://github.com/user-attachments/assets/855fb7d8-e693-4d19-b00f-d919a4e7f797" />
+
