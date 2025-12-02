@@ -143,6 +143,7 @@ Topic: **Veterinary**
 * Sends alerts to a vet's phone when conditions change.
 * Automatically adjusts pressure to help healing.
 * <b><a href="https://cff2.earth.com/uploads/2018/10/16191600/MRI-scans-show-that-dogs-can-understand-some-of-what-we-say.jpg"> How the SmartBandage would look like! </a>
+<img width="324" height="324" alt="SMARTBANDAGE " src="https://github.com/user-attachments/assets/a8497831-e5e3-4878-b86f-2ae6dce31ac6" />
 
 
  PET EMOTIONS TRANSLATOR 
