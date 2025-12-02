@@ -22,7 +22,9 @@ Topic: **Veterinary**
 
 * It performs one basic task (dose calculations) using simple formulas. No data storage, communication, or advanced systems involved. 
 
+* <b><a href="https://play-lh.googleusercontent.com/Df9avM9VglJViPwrc9dJSHzu2tHljdbNBXBa_Hwi-IRsRoe0bryLy_2vdYew3vF5cUU"> Image of VetCalculator App </a>
 
+  
 <ul>
  &#9675; 2. <b><a href="https://www.petpoisonhelpline.com/"> Pet Poison Helpline </a> (App)
 </b>
@@ -39,6 +41,9 @@ Topic: **Veterinary**
 * Works on phones and tablets
 
 * It provides information only. It's helpful but still an informational tool, not a medical system. 
+
+* <b><a href="https://play-lh.googleusercontent.com/Df9avM9VglJViPwrc9dJSHzu2tHljdbNBXBa_Hwi-IRsRoe0bryLy_2vdYew3vF5cUU](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1b/08/1c/1b081c41-27dc-a6ee-654c-ec5f348fa02e/AppIcon-0-1x_U007emarketing-0-85-220-0-5.png/1200x630wa.jpg"> Image of Pet Poison App </a>
+
 
  ## Mildy Complex
 <ul>
@@ -58,6 +63,9 @@ Topic: **Veterinary**
   
 * It handles schedules, records, notifications, and communication, and even more features.
 
+* <b><a href="https://play-lh.googleusercontent.com/-3gZzgPa9FwSl4FtpwWyE6Pc0M-bJXBDUEVofoixlimp2ZYl0F7-VbHDM9kadu2x57w"> Image of PetDesk App </a> 
+
+
 ## More Complex
 
 <ul>
@@ -74,7 +82,10 @@ Topic: **Veterinary**
 
 * Ensures zero contamination between animals
   
-* The machine uses mechanical parts, pressure, heat, timing, and sometimes digital monitor. 
+* The machine uses mechanical parts, pressure, heat, timing, and sometimes digital monitor.
+
+* <b><a href="https://www.priorclave.com/en-us/autoclave-customers/autoclaves-veterinary-use/"> Image of Autoclave </a>
+
 
 ## Most Complex
 
@@ -96,6 +107,8 @@ Topic: **Veterinary**
   
 * Includes programmable settings, sensors, data storage, and sometimes wireless connectivity. 
 
+* <b><a href="https://www.antechdiagnostics.com/wp-content/uploads/2024/12/VetIV_Left-wpcf_350x271.png"> Image of Intravenous (IV) Pumps </a>
+
 <ul>
  &#9675; 5. <b><a href="https://www.merckvetmanual.com/clinical-pathology-and-procedures/diagnostic-imaging/magnetic-resonance-imaging-in-animals"> Magnetic resonance imaging</a> </b>
 </ul>
@@ -108,8 +121,10 @@ Topic: **Veterinary**
 
 * Helps vets diagnose without surgery
 
-* Assists in monitoring recovery and surgical progress 
+* Assists in monitoring recovery and surgical progress
   
 * MRI machines use advanced imaging software, computer systems, magnet technology, and detailed data processing. It is the highest level of veterinary equipment.
+
+* <b><a href="https://cff2.earth.com/uploads/2018/10/16191600/MRI-scans-show-that-dogs-can-understand-some-of-what-we-say.jpg"> Image of Magnetic resonance imaging </a>
 
 ## Ideas
