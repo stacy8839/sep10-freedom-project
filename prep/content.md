@@ -127,4 +127,24 @@ Topic: **Veterinary**
 
 * <b><a href="https://cff2.earth.com/uploads/2018/10/16191600/MRI-scans-show-that-dogs-can-understand-some-of-what-we-say.jpg"> Image of Magnetic resonance imaging </a>
 
-## Ideas
+## Ideas for Veterinary Technology 
+
+ HOLO-VET SCANNER
+
+* Creates 3D holograms of an animal's internal organs without surgery.
+* Uses advanced sensors to scan through tissue safely.
+* Helps vets diagnose injuries faster and with more accuracy.
+
+
+ SMARTBANDAGE 
+
+* Wraps around a wound and monitors swelling, temperature, and infection risk.
+* Sends alerts to a vet's phone when conditions change.
+* Automatically adjusts pressure to help healing. 
+
+
+ PET EMOTIONS TRANSLATOR 
+
+* Reads body signals, heart rate, and movement patterns to identify emotions.
+* Shows if a pet is anxious, stressed, or in pain.
+* Helps vets communicate better with animals during exams. 
