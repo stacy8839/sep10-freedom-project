@@ -1,4 +1,4 @@
-# Entry 3
+# Entry 3: Part B
 ##### X/X/XX
 
 Text
