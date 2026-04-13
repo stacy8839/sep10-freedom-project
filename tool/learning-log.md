@@ -28,8 +28,41 @@ Can I make objects move when a key on the keyboard is pressed?
 * Next Steps
 Try adding textures or images to objects to make them more visually appealing!
 
-### X/X/XX:
-* Text
+### 04/13/26:
+Cool things I learned while exploring and tinkering with my tool Aframe!
+
+#### The Instant 360-degree!
+You can create a full 360-degree photo viewer with just one line of code!
+
+The code:
+
+<a-scene>
+  <a-sky src="your-360-image.jpg"></a-sky>
+</a-scene>
+
+
+#### Annimated Interactions!
+You can add complex animations without Javascript! This can be done by just adding the animation component to any HTML tag.
+
+For example:
+
+<a-box color="purple"
+       animation="property: rotation; to: 0 360 0; dur: 5000; loop: true">
+</a-box>
+
+
+* Some Questions I have!
+
+*  Can I hover over objects in Aframe, if so which component can I use?
+
+*  I commonly overhear "painting in 3D" in Aframe, what does that mean?
+
+*  How do users create fully immersive VR and AR experiences directly in the browser using HTML?
+
+
+* The Next Steps I will take!
+
+I will try importing 3D models and images into the scene.
 
 
 <!--
