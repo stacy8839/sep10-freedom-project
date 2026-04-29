@@ -72,3 +72,7 @@ I will try importing 3D models and images into the scene.
 * Questions you still have
 * What you're going to try next
 -->
+
+### 04/16/26
+
+Some things i learned today with tinkering with
