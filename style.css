@@ -5,13 +5,14 @@ body {
 
 
 #topic {
-  margin-top: -20px;
+  margin-top: 20px;
 }
 
 
 h2 {
   font-size: 35px;
-  font-weight: 600;
+  font-weight: 800;
+  color: #294a63
 }
 
 h3 {
@@ -36,19 +37,48 @@ h3 {
 
 
 .section {
-  padding: 60px 20px;
+  padding: 18px 20px;
 }
 
 
-.container .section-box {
-  max-width: 900px;
+body {
+  background-image: url('https://winchestervetclinic.com/wp-content/uploads/2024/01/Contact-video-fallback-image-1.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.section-box {
+  max-width: 3000px;
   margin: 0 auto;
-  padding: 40px;
-  background: white;
+  padding: 39px;
+  background: #D1E5F4;
   border-radius: 12px;
 
 }
 
+.carousel {
+  width: 75%;
+  max-width: 850px;
+  margin: 30px auto
+}
+
+.carousel-item {
+  height: 350px
+}
+
+.carousel-inner img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.box ul,
+.box p,
+.box h5 {
+  padding-left: 80px;
+}
 
 
 
