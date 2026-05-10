@@ -240,10 +240,115 @@
     </div>
 
                 <div class="aframe box">
-                    <a-scene embedded>
-                    <a-box position="0 1 -3"color="blue></a-box>
-                    <a-camera position="0 1.6 0"></a-camera>
-                    </a-scene>
+<div class="aframe box">
+
+<script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+
+<a-scene embedded style="height:400px; width:100%;">
+
+
+    <a-sky color="#D1E5F4"></a-sky>
+
+
+    <a-plane
+        position="0 0 -4"
+        rotation="-90 0 0"
+        width="10"
+        height="10"
+        color="#b8d4e3">
+    </a-plane>
+
+  HoloVet Scanner
+
+<a-box
+    position="-2 1 -5"
+    color="#4cc9f0"
+    depth="1"
+    height="1"
+    width="1"
+    opacity="0.7"
+    animation="property: rotation; to: 0 360 0; loop: true; dur: 6000">
+</a-box>
+
+
+<a-torus
+    position="-2 1 -5"
+    radius="1"
+    radius-tubular="0.05"
+    color="#90e0ef"
+    animation="property: rotation; to: 360 0 360; loop: true; dur: 4000">
+</a-torus>
+
+
+<a-cylinder
+    position="-2 0.5 -5"
+    radius="0.08"
+    height="2"
+    color="#caf0f8"
+    opacity="0.5">
+</a-cylinder>
+
+<a-text
+    value="HoloVet Scanner"
+    position="-3 2.2 -5"
+    color="#294a63"
+    width="6">
+</a-text>
+
+    <!-- SmartBandage -->
+    <a-cylinder
+        position="0 1 -5"
+        radius="0.5"
+        height="1.5"
+        color="#90e0ef"
+        animation="property: position; dir: alternate; dur: 2000; loop: true; to: 0 1.3 -5">
+    </a-cylinder>
+
+    <a-text
+        value="SmartBandage"
+        position="-1 2 -5"
+        color="#294a63"
+        width="5">
+    </a-text>
+
+    <!-- Pet Emotion Translator -->
+
+<!-- Main device (rounded rectangle) -->
+<a-box
+    position="2 1 -5"
+    width="1.4"
+    height="0.8"
+    depth="0.2"
+    color="#48cae4"
+    animation="property: rotation; to: 0 360 0; loop: true; dur: 5000">
+</a-box>
+
+<!-- Screen -->
+<a-plane
+    position="2 1 -4.89"
+    width="0.8"
+    height="0.4"
+    color="#ffffff"
+    opacity="0.8">
+</a-plane>
+
+<!-- Small “signal dots” to show emotion scanning -->
+<a-sphere position="1.6 1.3 -5" radius="0.05" color="#0077b6"></a-sphere>
+<a-sphere position="2 1.4 -5" radius="0.05" color="#0077b6"></a-sphere>
+<a-sphere position="2.4 1.3 -5" radius="0.05" color="#0077b6"></a-sphere>
+
+<!-- Label -->
+<a-text
+    value="Pet Emotion Translator"
+    position="0.5 2.2 -5"
+    color="#294a63"
+    width="6">
+</a-text>
+</a-scene>
+
+</div>
+
+
                     </div>
 
 
