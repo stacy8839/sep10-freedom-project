@@ -1,16 +1,46 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Mexico story helping stray animals wanting to become a veterinarian realizing technology could improve animal care.
 
 ## Product
-* 
+* Demo of example!
+
+* My website has four main sections.
+  
+ * Veterinary Technology
+ * My Inventions
+ * carousel
+ * A-Frame 3D models
+
 
 ## Process
-* 
+
+* Planning
+* wireframe
+* deciding sections
+* organizing content
+* Coding
+* Bootstrap
+* CSS styling
+* fixing spacing/layout problems
+
+### Challenges
+
+* images stacking incorrectly
+* CSS not applying
+* carousel resizing issues
+* A-Frame syntax errors
+* debugging broken HTML tags
+* GitHub + HTTP server problems
+
 
 ## Conclusion
-* 
+End with: what you learned future ideas personal takeaway
+
+Good ending idea, say something along the lines of: 
+This project taught me that technology is not just about coding. It can also be used to protect, understand, and improve the lives of animals.”
+Then. In the future, I hope veterinary technology continues evolving to make animal care more accessible, accurate, and compassionate.”
 
 <!-- EXAMPLE
 
